@@ -1,0 +1,14 @@
+﻿Versión 1.4
+@author Saile Sesiom
+https://play.google.com/store/apps/details?id=tech.saile_sesiom.romansvalidator
+
+--Números romanos del 1 al 9.
+--[I, V, X]
+
+--Unidades----------
+W -> IP|VF
+P -> IH|V|X|Ɛ
+F -> IG|Ɛ
+G -> IH|Ɛ
+H -> I|Ɛ
+--------------------
